@@ -1,0 +1,31 @@
+# Compiled binaries
+bankers
+bankers.exe
+*.o
+*.out
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Archives and backups
+*.zip
+*.bak
