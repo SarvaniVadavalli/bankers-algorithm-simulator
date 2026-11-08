@@ -659,15 +659,6 @@ By integrating a C backend with a Python Tkinter frontend, the project provides 
 
 ---
 
-## References
-
-1. Abraham Silberschatz, Peter B. Galvin, and Greg Gagne, *Operating System Concepts*.
-2. Banker's Algorithm – Deadlock Avoidance.
-3. POSIX Threads Programming – `pthread_create()`, `pthread_join()`, `pthread_mutex_lock()`, and `pthread_mutex_unlock()`.
-4. GCC Documentation – https://gcc.gnu.org/
-5. Python Documentation – https://docs.python.org/3/
-6. Tkinter Documentation – https://docs.python.org/3/library/tkinter.html
-7. GNU Make Documentation – https://www.gnu.org/software/make/manual/
 
 ---
 
