@@ -6,26 +6,6 @@ The simulator allows users to configure customers and resource types dynamically
 
 ---
 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Problem Statement](#problem-statement)
-3. [Objectives](#objectives)
-4. [Features](#features)
-5. [Banker's Algorithm](#bankers-algorithm)
-6. [System Architecture](#system-architecture)
-7. [Technology Stack](#technology-stack)
-8. [Project Structure](#project-structure)
-9. [Application Modules](#application-modules)
-10. [Concurrency and Synchronization](#concurrency-and-synchronization)
-11. [Installation and Setup](#installation-and-setup)
-12. [Building and Running](#building-and-running)
-13. [Testing](#testing)
-14. [Example Scenarios](#example-scenarios)
-15. [Limitations and Future Enhancements](#limitations-and-future-enhancements)
-
----
-
 ## 1. Overview
 
 The Banker's Algorithm is a deadlock-avoidance algorithm used in operating systems to manage resource allocation among multiple processes.
@@ -659,7 +639,5 @@ By integrating a C backend with a Python Tkinter frontend, the project provides 
 
 ---
 
-
----
 
 
